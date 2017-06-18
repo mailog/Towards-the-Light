@@ -1,0 +1,7637 @@
+fileFormatVersion: 2
+guid: ccd50f5d56e23d94581fbe059da167f1
+timeCreated: 1495408437
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: altern_0
+    21300002: altern_1
+    21300004: altern_2
+    21300006: altern_3
+    21300008: altern_4
+    21300010: altern_5
+    21300012: altern_6
+    21300014: altern_7
+    21300016: altern_8
+    21300018: altern_9
+    21300020: altern_10
+    21300022: altern_11
+    21300024: altern_12
+    21300026: altern_13
+    21300028: altern_14
+    21300030: altern_15
+    21300032: altern_16
+    21300034: altern_17
+    21300036: altern_18
+    21300038: altern_19
+    21300040: altern_20
+    21300042: altern_21
+    21300044: altern_22
+    21300046: altern_23
+    21300048: altern_24
+    21300050: altern_25
+    21300052: altern_26
+    21300054: altern_27
+    21300056: altern_28
+    21300058: altern_29
+    21300060: altern_30
+    21300062: altern_31
+    21300064: altern_32
+    21300066: altern_33
+    21300068: altern_34
+    21300070: altern_35
+    21300072: altern_36
+    21300074: altern_37
+    21300076: altern_38
+    21300078: altern_39
+    21300080: altern_40
+    21300082: altern_41
+    21300084: altern_42
+    21300086: altern_43
+    21300088: altern_44
+    21300090: altern_45
+    21300092: altern_46
+    21300094: altern_47
+    21300096: altern_48
+    21300098: altern_49
+    21300100: altern_50
+    21300102: altern_51
+    21300104: altern_52
+    21300106: altern_53
+    21300108: altern_54
+    21300110: altern_55
+    21300112: altern_56
+    21300114: altern_57
+    21300116: altern_58
+    21300118: altern_59
+    21300120: altern_60
+    21300122: altern_61
+    21300124: altern_62
+    21300126: altern_63
+    21300128: altern_64
+    21300130: altern_65
+    21300132: altern_66
+    21300134: altern_67
+    21300136: altern_68
+    21300138: altern_69
+    21300140: altern_70
+    21300142: altern_71
+    21300144: altern_72
+    21300146: altern_73
+    21300148: altern_74
+    21300150: altern_75
+    21300152: altern_76
+    21300154: altern_77
+    21300156: altern_78
+    21300158: altern_79
+    21300160: altern_80
+    21300162: altern_81
+    21300164: altern_82
+    21300166: altern_83
+    21300168: altern_84
+    21300170: altern_85
+    21300172: altern_86
+    21300174: altern_87
+    21300176: altern_88
+    21300178: altern_89
+    21300180: altern_90
+    21300182: altern_91
+    21300184: altern_92
+    21300186: altern_93
+    21300188: altern_94
+    21300190: altern_95
+    21300192: altern_96
+    21300194: altern_97
+    21300196: altern_98
+    21300198: altern_99
+    21300200: altern_100
+    21300202: altern_101
+    21300204: altern_102
+    21300206: altern_103
+    21300208: altern_104
+    21300210: altern_105
+    21300212: altern_106
+    21300214: altern_107
+    21300216: altern_108
+    21300218: altern_109
+    21300220: altern_110
+    21300222: altern_111
+    21300224: altern_112
+    21300226: altern_113
+    21300228: altern_114
+    21300230: altern_115
+    21300232: altern_116
+    21300234: altern_117
+    21300236: altern_118
+    21300238: altern_119
+    21300240: altern_120
+    21300242: altern_121
+    21300244: altern_122
+    21300246: altern_123
+    21300248: altern_124
+    21300250: altern_125
+    21300252: altern_126
+    21300254: altern_127
+    21300256: altern_128
+    21300258: altern_129
+    21300260: altern_130
+    21300262: altern_131
+    21300264: altern_132
+    21300266: altern_133
+    21300268: altern_134
+    21300270: altern_135
+    21300272: altern_136
+    21300274: altern_137
+    21300276: altern_138
+    21300278: altern_139
+    21300280: altern_140
+    21300282: altern_141
+    21300284: altern_142
+    21300286: altern_143
+    21300288: altern_144
+    21300290: altern_145
+    21300292: altern_146
+    21300294: altern_147
+    21300296: altern_148
+    21300298: altern_149
+    21300300: altern_150
+    21300302: altern_151
+    21300304: altern_152
+    21300306: altern_153
+    21300308: altern_154
+    21300310: altern_155
+    21300312: altern_156
+    21300314: altern_157
+    21300316: altern_158
+    21300318: altern_159
+    21300320: altern_160
+    21300322: altern_161
+    21300324: altern_162
+    21300326: altern_163
+    21300328: altern_164
+    21300330: altern_165
+    21300332: altern_166
+    21300334: altern_167
+    21300336: altern_168
+    21300338: altern_169
+    21300340: altern_170
+    21300342: altern_171
+    21300344: altern_172
+    21300346: altern_173
+    21300348: altern_174
+    21300350: altern_175
+    21300352: altern_176
+    21300354: altern_177
+    21300356: altern_178
+    21300358: altern_179
+    21300360: altern_180
+    21300362: altern_181
+    21300364: altern_182
+    21300366: altern_183
+    21300368: altern_184
+    21300370: altern_185
+    21300372: altern_186
+    21300374: altern_187
+    21300376: altern_188
+    21300378: altern_189
+    21300380: altern_190
+    21300382: altern_191
+    21300384: altern_192
+    21300386: altern_193
+    21300388: altern_194
+    21300390: altern_195
+    21300392: altern_196
+    21300394: altern_197
+    21300396: altern_198
+    21300398: altern_199
+    21300400: altern_200
+    21300402: altern_201
+    21300404: altern_202
+    21300406: altern_203
+    21300408: altern_204
+    21300410: altern_205
+    21300412: altern_206
+    21300414: altern_207
+    21300416: altern_208
+    21300418: altern_209
+    21300420: altern_210
+    21300422: altern_211
+    21300424: altern_212
+    21300426: altern_213
+    21300428: altern_214
+    21300430: altern_215
+    21300432: altern_216
+    21300434: altern_217
+    21300436: altern_218
+    21300438: altern_219
+    21300440: altern_220
+    21300442: altern_221
+    21300444: altern_222
+    21300446: altern_223
+    21300448: altern_224
+    21300450: altern_225
+    21300452: altern_226
+    21300454: altern_227
+    21300456: altern_228
+    21300458: altern_229
+    21300460: altern_230
+    21300462: altern_231
+    21300464: altern_232
+    21300466: altern_233
+    21300468: altern_234
+    21300470: altern_235
+    21300472: altern_236
+    21300474: altern_237
+    21300476: altern_238
+    21300478: altern_239
+    21300480: altern_240
+    21300482: altern_241
+    21300484: altern_242
+    21300486: altern_243
+    21300488: altern_244
+    21300490: altern_245
+    21300492: altern_246
+    21300494: altern_247
+    21300496: altern_248
+    21300498: altern_249
+    21300500: altern_250
+    21300502: altern_251
+    21300504: altern_252
+    21300506: altern_253
+    21300508: altern_254
+    21300510: altern_255
+    21300512: altern_256
+    21300514: altern_257
+    21300516: altern_258
+    21300518: altern_259
+    21300520: altern_260
+    21300522: altern_261
+    21300524: altern_262
+    21300526: altern_263
+    21300528: altern_264
+    21300530: altern_265
+    21300532: altern_266
+    21300534: altern_267
+    21300536: altern_268
+    21300538: altern_269
+    21300540: altern_270
+    21300542: altern_271
+    21300544: altern_272
+    21300546: altern_273
+    21300548: altern_274
+    21300550: altern_275
+    21300552: altern_276
+    21300554: altern_277
+    21300556: altern_278
+    21300558: altern_279
+    21300560: altern_280
+    21300562: altern_281
+    21300564: altern_282
+    21300566: altern_283
+    21300568: altern_284
+    21300570: altern_285
+    21300572: altern_286
+    21300574: altern_287
+    21300576: altern_288
+    21300578: altern_289
+    21300580: altern_290
+    21300582: altern_291
+    21300584: altern_292
+    21300586: altern_293
+    21300588: altern_294
+    21300590: altern_295
+    21300592: altern_296
+    21300594: altern_297
+    21300596: altern_298
+    21300598: altern_299
+    21300600: altern_300
+    21300602: altern_301
+    21300604: altern_302
+    21300606: altern_303
+    21300608: altern_304
+    21300610: altern_305
+    21300612: altern_306
+    21300614: altern_307
+    21300616: altern_308
+    21300618: altern_309
+    21300620: altern_310
+    21300622: altern_311
+    21300624: altern_312
+    21300626: altern_313
+    21300628: altern_314
+    21300630: altern_315
+    21300632: altern_316
+    21300634: altern_317
+    21300636: altern_318
+    21300638: altern_319
+    21300640: altern_320
+    21300642: altern_321
+    21300644: altern_322
+    21300646: altern_323
+    21300648: altern_324
+    21300650: altern_325
+    21300652: altern_326
+    21300654: altern_327
+    21300656: altern_328
+    21300658: altern_329
+    21300660: altern_330
+    21300662: altern_331
+    21300664: altern_332
+    21300666: altern_333
+    21300668: altern_334
+    21300670: altern_335
+    21300672: altern_336
+    21300674: altern_337
+    21300676: altern_338
+    21300678: altern_339
+    21300680: altern_340
+    21300682: altern_341
+    21300684: altern_342
+    21300686: altern_343
+    21300688: altern_344
+    21300690: altern_345
+    21300692: altern_346
+    21300694: altern_347
+    21300696: altern_348
+    21300698: altern_349
+    21300700: altern_350
+    21300702: altern_351
+    21300704: altern_352
+    21300706: altern_353
+    21300708: altern_354
+    21300710: altern_355
+    21300712: altern_356
+    21300714: altern_357
+    21300716: altern_358
+    21300718: altern_359
+    21300720: altern_360
+    21300722: altern_361
+    21300724: altern_362
+    21300726: altern_363
+    21300728: altern_364
+    21300730: altern_365
+    21300732: altern_366
+    21300734: altern_367
+    21300736: altern_368
+    21300738: altern_369
+    21300740: altern_370
+    21300742: altern_371
+    21300744: altern_372
+    21300746: altern_373
+    21300748: altern_374
+    21300750: altern_375
+    21300752: altern_376
+    21300754: altern_377
+    21300756: altern_378
+    21300758: altern_379
+    21300760: altern_380
+    21300762: altern_381
+    21300764: altern_382
+    21300766: altern_383
+    21300768: altern_384
+    21300770: altern_385
+    21300772: altern_386
+    21300774: altern_387
+    21300776: altern_388
+    21300778: altern_389
+    21300780: altern_390
+    21300782: altern_391
+    21300784: altern_392
+    21300786: altern_393
+    21300788: altern_394
+    21300790: altern_395
+    21300792: altern_396
+    21300794: altern_397
+    21300796: altern_398
+    21300798: altern_399
+    21300800: altern_400
+    21300802: altern_401
+    21300804: altern_402
+    21300806: altern_403
+    21300808: altern_404
+    21300810: altern_405
+    21300812: altern_406
+    21300814: altern_407
+    21300816: altern_408
+    21300818: altern_409
+    21300820: altern_410
+    21300822: altern_411
+    21300824: altern_412
+    21300826: altern_413
+    21300828: altern_414
+    21300830: altern_415
+    21300832: altern_416
+    21300834: altern_417
+    21300836: altern_418
+    21300838: altern_419
+    21300840: altern_420
+    21300842: altern_421
+    21300844: altern_422
+    21300846: altern_423
+    21300848: altern_424
+    21300850: altern_425
+    21300852: altern_426
+    21300854: altern_427
+    21300856: altern_428
+    21300858: altern_429
+    21300860: altern_430
+    21300862: altern_431
+    21300864: altern_432
+    21300866: altern_433
+    21300868: altern_434
+    21300870: altern_435
+    21300872: altern_436
+    21300874: altern_437
+    21300876: altern_438
+    21300878: altern_439
+    21300880: altern_440
+    21300882: altern_441
+    21300884: altern_442
+    21300886: altern_443
+    21300888: altern_444
+    21300890: altern_445
+    21300892: altern_446
+    21300894: altern_447
+    21300896: altern_448
+    21300898: altern_449
+    21300900: altern_450
+    21300902: altern_451
+    21300904: altern_452
+    21300906: altern_453
+    21300908: altern_454
+    21300910: altern_455
+    21300912: altern_456
+    21300914: altern_457
+    21300916: altern_458
+    21300918: altern_459
+    21300920: altern_460
+    21300922: altern_461
+    21300924: altern_462
+    21300926: altern_463
+    21300928: altern_464
+    21300930: altern_465
+    21300932: altern_466
+    21300934: altern_467
+    21300936: altern_468
+    21300938: altern_469
+    21300940: altern_470
+    21300942: altern_471
+    21300944: altern_472
+    21300946: altern_473
+    21300948: altern_474
+    21300950: altern_475
+    21300952: altern_476
+    21300954: altern_477
+    21300956: altern_478
+    21300958: altern_479
+    21300960: altern_480
+    21300962: altern_481
+    21300964: altern_482
+    21300966: altern_483
+    21300968: altern_484
+    21300970: altern_485
+    21300972: altern_486
+    21300974: altern_487
+    21300976: altern_488
+    21300978: altern_489
+    21300980: altern_490
+    21300982: altern_491
+    21300984: altern_492
+    21300986: altern_493
+    21300988: altern_494
+    21300990: altern_495
+    21300992: altern_496
+    21300994: altern_497
+    21300996: altern_498
+    21300998: altern_499
+    21301000: altern_500
+    21301002: altern_501
+    21301004: altern_502
+    21301006: altern_503
+    21301008: altern_504
+    21301010: altern_505
+    21301012: altern_506
+    21301014: altern_507
+    21301016: altern_508
+    21301018: altern_509
+    21301020: altern_510
+    21301022: altern_511
+    21301024: altern_512
+    21301026: altern_513
+    21301028: altern_514
+    21301030: altern_515
+    21301032: altern_516
+    21301034: altern_517
+    21301036: altern_518
+    21301038: altern_519
+    21301040: altern_520
+    21301042: altern_521
+    21301044: altern_522
+    21301046: altern_523
+    21301048: altern_524
+    21301050: altern_525
+    21301052: altern_526
+    21301054: altern_527
+    21301056: altern_528
+    21301058: altern_529
+    21301060: altern_530
+    21301062: altern_531
+    21301064: altern_532
+    21301066: altern_533
+    21301068: altern_534
+    21301070: altern_535
+    21301072: altern_536
+    21301074: altern_537
+    21301076: altern_538
+    21301078: altern_539
+    21301080: altern_540
+    21301082: altern_541
+    21301084: altern_542
+    21301086: altern_543
+    21301088: altern_544
+    21301090: altern_545
+    21301092: altern_546
+    21301094: altern_547
+    21301096: altern_548
+    21301098: altern_549
+    21301100: altern_550
+    21301102: altern_551
+    21301104: altern_552
+    21301106: altern_553
+    21301108: altern_554
+    21301110: altern_555
+    21301112: altern_556
+    21301114: altern_557
+    21301116: altern_558
+    21301118: altern_559
+    21301120: altern_560
+    21301122: altern_561
+    21301124: altern_562
+    21301126: altern_563
+    21301128: altern_564
+    21301130: altern_565
+    21301132: altern_566
+    21301134: altern_567
+    21301136: altern_568
+    21301138: altern_569
+    21301140: altern_570
+    21301142: altern_571
+    21301144: altern_572
+    21301146: altern_573
+    21301148: altern_574
+    21301150: altern_575
+    21301152: altern_576
+    21301154: altern_577
+    21301156: altern_578
+    21301158: altern_579
+    21301160: altern_580
+    21301162: altern_581
+    21301164: altern_582
+    21301166: altern_583
+    21301168: altern_584
+    21301170: altern_585
+    21301172: altern_586
+    21301174: altern_587
+    21301176: altern_588
+    21301178: altern_589
+    21301180: altern_590
+    21301182: altern_591
+    21301184: altern_592
+    21301186: altern_593
+    21301188: altern_594
+    21301190: altern_595
+    21301192: altern_596
+    21301194: altern_597
+    21301196: altern_598
+    21301198: altern_599
+    21301200: altern_600
+    21301202: altern_601
+    21301204: altern_602
+    21301206: altern_603
+    21301208: altern_604
+    21301210: altern_605
+    21301212: altern_606
+    21301214: altern_607
+    21301216: altern_608
+    21301218: altern_609
+    21301220: altern_610
+    21301222: altern_611
+    21301224: altern_612
+    21301226: altern_613
+    21301228: altern_614
+    21301230: altern_615
+    21301232: altern_616
+    21301234: altern_617
+    21301236: altern_618
+    21301238: altern_619
+    21301240: altern_620
+    21301242: altern_621
+    21301244: altern_622
+    21301246: altern_623
+    21301248: altern_624
+    21301250: altern_625
+    21301252: altern_626
+    21301254: altern_627
+    21301256: altern_628
+    21301258: altern_629
+    21301260: altern_630
+    21301262: altern_631
+    21301264: altern_632
+    21301266: altern_633
+    21301268: altern_634
+    21301270: altern_635
+    21301272: altern_636
+    21301274: altern_637
+    21301276: altern_638
+    21301278: altern_639
+    21301280: altern_640
+    21301282: altern_641
+    21301284: altern_642
+    21301286: altern_643
+    21301288: altern_644
+    21301290: altern_645
+    21301292: altern_646
+    21301294: altern_647
+    21301296: altern_648
+    21301298: altern_649
+    21301300: altern_650
+    21301302: altern_651
+    21301304: altern_652
+    21301306: altern_653
+    21301308: altern_654
+    21301310: altern_655
+    21301312: altern_656
+    21301314: altern_657
+    21301316: altern_658
+    21301318: altern_659
+    21301320: altern_660
+    21301322: altern_661
+    21301324: altern_662
+    21301326: altern_663
+    21301328: altern_664
+    21301330: altern_665
+    21301332: altern_666
+    21301334: altern_667
+    21301336: altern_668
+    21301338: altern_669
+    21301340: altern_670
+    21301342: altern_671
+    21301344: altern_672
+    21301346: altern_673
+    21301348: altern_674
+    21301350: altern_675
+    21301352: altern_676
+    21301354: altern_677
+    21301356: altern_678
+    21301358: altern_679
+    21301360: altern_680
+    21301362: altern_681
+    21301364: altern_682
+    21301366: altern_683
+    21301368: altern_684
+    21301370: altern_685
+    21301372: altern_686
+    21301374: altern_687
+    21301376: altern_688
+    21301378: altern_689
+    21301380: altern_690
+    21301382: altern_691
+    21301384: altern_692
+    21301386: altern_693
+    21301388: altern_694
+    21301390: altern_695
+    21301392: altern_696
+    21301394: altern_697
+    21301396: altern_698
+    21301398: altern_699
+    21301400: altern_700
+    21301402: altern_701
+    21301404: altern_702
+    21301406: altern_703
+    21301408: altern_704
+    21301410: altern_705
+    21301412: altern_706
+    21301414: altern_707
+    21301416: altern_708
+    21301418: altern_709
+    21301420: altern_710
+    21301422: altern_711
+    21301424: altern_712
+    21301426: altern_713
+    21301428: altern_714
+    21301430: altern_715
+    21301432: altern_716
+    21301434: altern_717
+    21301436: altern_718
+    21301438: altern_719
+    21301440: altern_720
+    21301442: altern_721
+    21301444: altern_722
+    21301446: altern_723
+    21301448: altern_724
+    21301450: altern_725
+    21301452: altern_726
+    21301454: altern_727
+    21301456: altern_728
+    21301458: altern_729
+    21301460: altern_730
+    21301462: altern_731
+    21301464: altern_732
+    21301466: altern_733
+    21301468: altern_734
+    21301470: altern_735
+    21301472: altern_736
+    21301474: altern_737
+    21301476: altern_738
+    21301478: altern_739
+    21301480: altern_740
+    21301482: altern_741
+    21301484: altern_742
+    21301486: altern_743
+    21301488: altern_744
+    21301490: altern_745
+    21301492: altern_746
+    21301494: altern_747
+    21301496: altern_748
+    21301498: altern_749
+    21301500: altern_750
+    21301502: altern_751
+    21301504: altern_752
+    21301506: altern_753
+    21301508: altern_754
+    21301510: altern_755
+    21301512: altern_756
+    21301514: altern_757
+    21301516: altern_758
+    21301518: altern_759
+    21301520: altern_760
+    21301522: altern_761
+    21301524: altern_762
+    21301526: altern_763
+    21301528: altern_764
+    21301530: altern_765
+    21301532: altern_766
+    21301534: altern_767
+    21301536: altern_768
+    21301538: altern_769
+    21301540: altern_770
+    21301542: altern_771
+    21301544: altern_772
+    21301546: altern_773
+    21301548: altern_774
+    21301550: altern_775
+    21301552: altern_776
+    21301554: altern_777
+    21301556: altern_778
+    21301558: altern_779
+    21301560: altern_780
+    21301562: altern_781
+    21301564: altern_782
+    21301566: altern_783
+    21301568: altern_784
+    21301570: altern_785
+    21301572: altern_786
+    21301574: altern_787
+    21301576: altern_788
+    21301578: altern_789
+    21301580: altern_790
+    21301582: altern_791
+    21301584: altern_792
+    21301586: altern_793
+    21301588: altern_794
+    21301590: altern_795
+    21301592: altern_796
+    21301594: altern_797
+    21301596: altern_798
+    21301598: altern_799
+    21301600: altern_800
+    21301602: altern_801
+    21301604: altern_802
+    21301606: altern_803
+    21301608: altern_804
+    21301610: altern_805
+    21301612: altern_806
+    21301614: altern_807
+    21301616: altern_808
+    21301618: altern_809
+    21301620: altern_810
+    21301622: altern_811
+    21301624: altern_812
+    21301626: altern_813
+    21301628: altern_814
+    21301630: altern_815
+    21301632: altern_816
+    21301634: altern_817
+    21301636: altern_818
+    21301638: altern_819
+    21301640: altern_820
+    21301642: altern_821
+    21301644: altern_822
+    21301646: altern_823
+    21301648: altern_824
+    21301650: altern_825
+    21301652: altern_826
+    21301654: altern_827
+    21301656: altern_828
+    21301658: altern_829
+    21301660: altern_830
+    21301662: altern_831
+    21301664: altern_832
+    21301666: altern_833
+    21301668: altern_834
+    21301670: altern_835
+    21301672: altern_836
+    21301674: altern_837
+    21301676: altern_838
+    21301678: altern_839
+    21301680: altern_840
+    21301682: altern_841
+    21301684: altern_842
+    21301686: altern_843
+    21301688: altern_844
+    21301690: altern_845
+    21301692: altern_846
+    21301694: altern_847
+    21301696: altern_848
+    21301698: altern_849
+    21301700: altern_850
+    21301702: altern_851
+    21301704: altern_852
+    21301706: altern_853
+    21301708: altern_854
+    21301710: altern_855
+    21301712: altern_856
+    21301714: altern_857
+    21301716: altern_858
+    21301718: altern_859
+    21301720: altern_860
+    21301722: altern_861
+    21301724: altern_862
+    21301726: altern_863
+    21301728: altern_864
+    21301730: altern_865
+    21301732: altern_866
+    21301734: altern_867
+    21301736: altern_868
+    21301738: altern_869
+    21301740: altern_870
+    21301742: altern_871
+    21301744: altern_872
+    21301746: altern_873
+    21301748: altern_874
+    21301750: altern_875
+    21301752: altern_876
+    21301754: altern_877
+    21301756: altern_878
+    21301758: altern_879
+    21301760: altern_880
+    21301762: altern_881
+    21301764: altern_882
+    21301766: altern_883
+    21301768: altern_884
+    21301770: altern_885
+    21301772: altern_886
+    21301774: altern_887
+    21301776: altern_888
+    21301778: altern_889
+    21301780: altern_890
+    21301782: altern_891
+    21301784: altern_892
+    21301786: altern_893
+    21301788: altern_894
+    21301790: altern_895
+    21301792: altern_896
+    21301794: altern_897
+    21301796: altern_898
+    21301798: altern_899
+    21301800: altern_900
+    21301802: altern_901
+    21301804: altern_902
+    21301806: altern_903
+    21301808: altern_904
+    21301810: altern_905
+    21301812: altern_906
+    21301814: altern_907
+    21301816: altern_908
+    21301818: altern_909
+    21301820: altern_910
+    21301822: altern_911
+    21301824: altern_912
+    21301826: altern_913
+    21301828: altern_914
+    21301830: altern_915
+    21301832: altern_916
+    21301834: altern_917
+    21301836: altern_918
+    21301838: altern_919
+    21301840: altern_920
+    21301842: altern_921
+    21301844: altern_922
+    21301846: altern_923
+    21301848: altern_924
+    21301850: altern_925
+    21301852: altern_926
+    21301854: altern_927
+    21301856: altern_928
+    21301858: altern_929
+    21301860: altern_930
+    21301862: altern_931
+    21301864: altern_932
+    21301866: altern_933
+    21301868: altern_934
+    21301870: altern_935
+    21301872: altern_936
+    21301874: altern_937
+    21301876: altern_938
+    21301878: altern_939
+    21301880: altern_940
+    21301882: altern_941
+    21301884: altern_942
+    21301886: altern_943
+    21301888: altern_944
+    21301890: altern_945
+    21301892: altern_946
+    21301894: altern_947
+    21301896: altern_948
+    21301898: altern_949
+    21301900: altern_950
+    21301902: altern_951
+    21301904: altern_952
+    21301906: altern_953
+    21301908: altern_954
+    21301910: altern_955
+    21301912: altern_956
+    21301914: altern_957
+    21301916: altern_958
+    21301918: altern_959
+    21301920: altern_960
+    21301922: altern_961
+    21301924: altern_962
+    21301926: altern_963
+    21301928: altern_964
+    21301930: altern_965
+    21301932: altern_966
+    21301934: altern_967
+    21301936: altern_968
+    21301938: altern_969
+    21301940: altern_970
+    21301942: altern_971
+    21301944: altern_972
+    21301946: altern_973
+    21301948: altern_974
+    21301950: altern_975
+    21301952: altern_976
+    21301954: altern_977
+    21301956: altern_978
+    21301958: altern_979
+    21301960: altern_980
+    21301962: altern_981
+    21301964: altern_982
+    21301966: altern_983
+    21301968: altern_984
+    21301970: altern_985
+    21301972: altern_986
+    21301974: altern_987
+    21301976: altern_988
+    21301978: altern_989
+    21301980: altern_990
+    21301982: altern_991
+    21301984: altern_992
+    21301986: altern_993
+    21301988: altern_994
+    21301990: altern_995
+    21301992: altern_996
+    21301994: altern_997
+    21301996: altern_998
+    21301998: altern_999
+    21302000: altern_1000
+    21302002: altern_1001
+    21302004: altern_1002
+    21302006: altern_1003
+    21302008: altern_1004
+    21302010: altern_1005
+    21302012: altern_1006
+    21302014: altern_1007
+    21302016: altern_1008
+    21302018: altern_1009
+    21302020: altern_1010
+    21302022: altern_1011
+    21302024: altern_1012
+    21302026: altern_1013
+    21302028: altern_1014
+    21302030: altern_1015
+    21302032: altern_1016
+    21302034: altern_1017
+    21302036: altern_1018
+    21302038: altern_1019
+    21302040: altern_1020
+    21302042: altern_1021
+    21302044: altern_1022
+    21302046: altern_1023
+    21302048: altern_1024
+    21302050: altern_1025
+    21302052: altern_1026
+    21302054: altern_1027
+    21302056: altern_1028
+    21302058: altern_1029
+    21302060: altern_1030
+    21302062: altern_1031
+    21302064: altern_1032
+    21302066: altern_1033
+    21302068: altern_1034
+    21302070: altern_1035
+    21302072: altern_1036
+    21302074: altern_1037
+    21302076: altern_1038
+    21302078: altern_1039
+    21302080: altern_1040
+    21302082: altern_1041
+    21302084: altern_1042
+    21302086: altern_1043
+    21302088: altern_1044
+    21302090: altern_1045
+    21302092: altern_1046
+    21302094: altern_1047
+    21302096: altern_1048
+    21302098: altern_1049
+    21302100: altern_1050
+    21302102: altern_1051
+    21302104: altern_1052
+    21302106: altern_1053
+    21302108: altern_1054
+    21302110: altern_1055
+    21302112: altern_1056
+    21302114: altern_1057
+    21302116: altern_1058
+    21302118: altern_1059
+    21302120: altern_1060
+    21302122: altern_1061
+    21302124: altern_1062
+    21302126: altern_1063
+    21302128: altern_1064
+    21302130: altern_1065
+    21302132: altern_1066
+    21302134: altern_1067
+    21302136: altern_1068
+    21302138: altern_1069
+    21302140: altern_1070
+    21302142: altern_1071
+    21302144: altern_1072
+    21302146: altern_1073
+    21302148: altern_1074
+    21302150: altern_1075
+    21302152: altern_1076
+    21302154: altern_1077
+    21302156: altern_1078
+    21302158: altern_1079
+    21302160: altern_1080
+    21302162: altern_1081
+    21302164: altern_1082
+    21302166: altern_1083
+    21302168: altern_1084
+    21302170: altern_1085
+    21302172: altern_1086
+    21302174: altern_1087
+    21302176: altern_1088
+    21302178: altern_1089
+    21302180: altern_1090
+    21302182: altern_1091
+    21302184: altern_1092
+    21302186: altern_1093
+    21302188: altern_1094
+    21302190: altern_1095
+    21302192: altern_1096
+    21302194: altern_1097
+    21302196: altern_1098
+    21302198: altern_1099
+    21302200: altern_1100
+    21302202: altern_1101
+    21302204: altern_1102
+    21302206: altern_1103
+    21302208: altern_1104
+    21302210: altern_1105
+    21302212: altern_1106
+    21302214: altern_1107
+    21302216: altern_1108
+    21302218: altern_1109
+    21302220: altern_1110
+    21302222: altern_1111
+    21302224: altern_1112
+    21302226: altern_1113
+    21302228: altern_1114
+    21302230: altern_1115
+    21302232: altern_1116
+    21302234: altern_1117
+    21302236: altern_1118
+    21302238: altern_1119
+    21302240: altern_1120
+    21302242: altern_1121
+    21302244: altern_1122
+    21302246: altern_1123
+    21302248: altern_1124
+    21302250: altern_1125
+    21302252: altern_1126
+    21302254: altern_1127
+    21302256: altern_1128
+    21302258: altern_1129
+    21302260: altern_1130
+    21302262: altern_1131
+    21302264: altern_1132
+    21302266: altern_1133
+    21302268: altern_1134
+    21302270: altern_1135
+    21302272: altern_1136
+    21302274: altern_1137
+    21302276: altern_1138
+    21302278: altern_1139
+    21302280: altern_1140
+    21302282: altern_1141
+    21302284: altern_1142
+    21302286: altern_1143
+    21302288: altern_1144
+    21302290: altern_1145
+    21302292: altern_1146
+    21302294: altern_1147
+    21302296: altern_1148
+    21302298: altern_1149
+    21302300: altern_1150
+    21302302: altern_1151
+    21302304: altern_1152
+    21302306: altern_1153
+    21302308: altern_1154
+    21302310: altern_1155
+    21302312: altern_1156
+    21302314: altern_1157
+    21302316: altern_1158
+    21302318: altern_1159
+    21302320: altern_1160
+    21302322: altern_1161
+    21302324: altern_1162
+    21302326: altern_1163
+    21302328: altern_1164
+    21302330: altern_1165
+    21302332: altern_1166
+    21302334: altern_1167
+    21302336: altern_1168
+    21302338: altern_1169
+    21302340: altern_1170
+    21302342: altern_1171
+    21302344: altern_1172
+    21302346: altern_1173
+    21302348: altern_1174
+    21302350: altern_1175
+    21302352: altern_1176
+    21302354: altern_1177
+    21302356: altern_1178
+    21302358: altern_1179
+    21302360: altern_1180
+    21302362: altern_1181
+    21302364: altern_1182
+    21302366: altern_1183
+    21302368: altern_1184
+    21302370: altern_1185
+    21302372: altern_1186
+    21302374: altern_1187
+    21302376: altern_1188
+    21302378: altern_1189
+    21302380: altern_1190
+    21302382: altern_1191
+    21302384: altern_1192
+    21302386: altern_1193
+    21302388: altern_1194
+    21302390: altern_1195
+    21302392: altern_1196
+    21302394: altern_1197
+    21302396: altern_1198
+    21302398: altern_1199
+    21302400: altern_1200
+    21302402: altern_1201
+    21302404: altern_1202
+    21302406: altern_1203
+    21302408: altern_1204
+    21302410: altern_1205
+    21302412: altern_1206
+    21302414: altern_1207
+    21302416: altern_1208
+    21302418: altern_1209
+    21302420: altern_1210
+    21302422: altern_1211
+    21302424: altern_1212
+    21302426: altern_1213
+    21302428: altern_1214
+    21302430: altern_1215
+    21302432: altern_1216
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: altern_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1157
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1156
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1156
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1119
+        width: 142
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1117
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_5
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1117
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1116
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_7
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1116
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1076
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_9
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1078
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_10
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1076
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_11
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1076
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_12
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1076
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_13
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1076
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_14
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1078
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_15
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1076
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_16
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1076
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_17
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1076
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_18
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1076
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_19
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1077
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_20
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1077
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_21
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1076
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_22
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1077
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_23
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1076
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_24
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1076
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_25
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1076
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_26
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1077
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_27
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1077
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_28
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1076
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_29
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1076
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_30
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1076
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_31
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1075
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_32
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1076
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_33
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1076
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_34
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1076
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_35
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1076
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_36
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 1074
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_37
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 1076
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_38
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1032
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_39
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1032
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_40
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1033
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_41
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1032
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_42
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1032
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_43
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1032
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_44
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1032
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_45
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1032
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_46
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1032
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_47
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1032
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_48
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1033
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_49
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1033
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_50
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1033
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_51
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1033
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_52
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1032
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_53
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 993
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_54
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 993
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_55
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 993
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_56
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 992
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_57
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 993
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_58
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 993
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_59
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 994
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_60
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 994
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_61
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 992
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_62
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 992
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_63
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 992
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_64
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 992
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_65
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 992
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_66
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 992
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_67
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 992
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_68
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 992
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_69
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 992
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_70
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 992
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_71
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 992
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_72
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 992
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_73
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 993
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_74
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 993
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_75
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 993
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_76
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 993
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_77
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 957
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_78
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 957
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_79
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 957
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_80
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 953
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_81
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 953
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_82
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 953
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_83
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 954
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_84
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 954
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_85
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 954
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_86
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 912
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_87
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 912
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_88
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 913
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_89
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 913
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_90
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 912
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_91
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 912
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_92
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 912
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_93
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 901
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_94
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 892
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_95
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 892
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_96
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 895
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_97
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 892
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_98
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 892
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_99
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 892
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_100
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 892
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_101
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 892
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_102
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 892
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_103
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 892
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_104
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 900
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_105
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 900
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_106
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 900
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_107
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 886
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_108
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 886
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_109
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 886
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_110
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 886
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_111
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 886
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_112
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 853
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_113
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 852
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_114
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 855
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_115
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 856
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_116
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 814
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_117
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 813
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_118
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 812
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_119
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 812
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_120
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 814
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_121
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 813
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_122
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 812
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_123
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 812
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_124
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 813
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_125
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 813
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_126
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 813
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_127
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 812
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_128
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 812
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_129
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 812
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_130
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 812
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_131
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 812
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_132
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 812
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_133
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 812
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_134
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 812
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_135
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 812
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_136
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 812
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_137
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 812
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_138
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 813
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_139
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 813
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_140
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 813
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_141
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 814
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_142
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 812
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_143
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 812
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_144
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 813
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_145
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 812
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_146
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 812
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_147
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 812
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_148
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 812
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_149
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 772
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_150
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 776
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_151
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 774
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_152
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 773
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_153
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 776
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_154
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 777
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_155
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 772
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_156
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 772
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_157
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 772
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_158
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 772
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_159
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 776
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_160
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 778
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_161
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 774
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_162
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 774
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_163
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 778
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_164
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 777
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_165
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 772
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_166
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 772
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_167
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 773
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_168
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 774
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_169
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 776
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_170
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 772
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_171
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 772
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_172
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 775
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_173
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 776
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_174
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 773
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_175
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 773
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_176
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 740
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_177
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 740
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_178
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 743
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_179
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 700
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_180
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 700
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_181
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 700
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_182
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 701
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_183
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 702
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_184
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 701
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_185
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 700
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_186
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 700
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_187
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 660
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_188
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 663
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_189
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 660
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_190
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 665
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_191
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 666
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_192
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 620
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_193
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 621
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_194
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 580
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_195
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 580
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_196
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 580
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_197
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 580
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_198
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 571
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_199
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 580
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_200
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 571
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_201
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 565
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_202
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 581
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_203
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 580
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_204
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 580
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_205
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 585
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_206
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 571
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_207
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 580
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_208
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 580
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_209
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 565
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_210
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 581
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_211
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 584
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_212
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 581
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_213
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 580
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_214
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 571
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_215
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 580
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_216
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 571
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_217
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 572
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_218
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 559
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_219
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 553
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_220
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 552
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_221
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 555
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_222
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 549
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_223
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 548
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_224
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 553
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_225
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 552
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_226
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 508
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_227
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 511
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_228
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 511
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_229
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 513
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_230
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 512
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_231
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 512
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_232
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 513
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_233
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 512
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_234
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 512
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_235
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 510
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_236
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 510
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_237
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 508
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_238
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 509
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_239
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 509
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_240
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 508
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_241
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 508
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_242
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 509
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_243
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 496
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_244
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 484
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_245
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 496
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_246
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 496
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_247
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 496
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_248
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 496
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_249
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 496
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_250
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 496
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_251
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 496
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_252
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 496
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_253
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 496
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_254
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 496
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_255
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 496
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_256
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 496
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_257
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 484
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_258
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 484
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_259
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 484
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_260
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 484
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_261
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 484
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_262
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 484
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_263
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 484
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_264
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 477
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_265
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 477
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_266
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 478
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_267
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 477
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_268
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 477
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_269
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 478
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_270
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 444
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_271
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 444
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_272
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 444
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_273
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 444
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_274
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 442
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_275
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 445
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_276
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 445
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_277
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 444
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_278
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 444
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_279
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 444
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_280
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 444
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_281
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 444
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_282
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 444
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_283
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 444
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_284
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 444
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_285
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 445
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_286
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 445
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_287
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 432
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_288
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 435
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_289
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 432
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_290
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 435
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_291
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 432
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_292
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 435
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_293
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 432
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_294
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 435
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_295
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 424
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_296
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 424
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_297
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 424
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_298
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 424
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_299
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 424
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_300
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 424
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_301
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 412
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_302
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 415
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_303
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 412
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_304
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 415
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_305
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 412
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_306
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 415
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_307
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 412
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_308
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 415
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_309
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 412
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_310
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 412
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_311
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 412
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_312
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 412
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_313
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 412
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_314
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 412
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_315
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 373
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_316
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 373
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_317
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 373
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_318
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 373
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_319
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 372
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_320
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 372
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_321
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 372
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_322
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 372
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_323
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 372
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_324
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 374
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_325
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 369
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_326
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 370
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_327
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 370
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_328
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 369
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_329
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 370
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_330
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 369
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_331
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 370
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_332
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 356
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_333
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 356
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_334
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 355
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_335
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 356
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_336
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 356
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_337
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 355
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_338
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 355
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_339
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 355
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_340
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 355
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_341
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 355
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_342
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 355
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_343
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 355
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_344
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 355
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_345
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 355
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_346
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 343
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_347
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 343
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_348
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 343
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_349
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 343
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_350
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 343
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_351
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 343
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_352
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 343
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_353
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 343
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_354
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 340
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_355
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 340
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_356
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 343
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_357
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 341
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_358
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 341
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_359
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 342
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_360
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 298
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_361
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 296
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_362
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 296
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_363
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 296
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_364
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 296
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_365
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 296
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_366
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 296
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_367
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 296
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_368
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 297
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_369
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 296
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_370
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 296
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_371
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 296
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_372
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 296
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_373
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 296
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_374
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 296
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_375
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 296
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_376
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 296
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_377
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 296
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_378
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 299
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_379
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 298
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_380
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 297
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_381
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 296
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_382
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 297
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_383
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 297
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_384
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 297
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_385
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 297
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_386
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 284
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_387
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 284
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_388
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 284
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_389
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 284
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_390
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 287
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_391
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 287
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_392
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 287
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_393
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 287
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_394
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 287
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_395
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 287
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_396
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 244
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_397
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 246
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_398
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 244
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_399
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 244
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_400
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 244
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_401
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 244
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_402
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 246
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_403
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 244
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_404
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 244
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_405
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 244
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_406
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 244
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_407
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 245
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_408
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 245
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_409
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 245
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_410
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 245
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_411
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 244
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_412
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 244
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_413
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 244
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_414
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 245
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_415
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 245
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_416
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 244
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_417
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 244
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_418
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 243
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_419
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 242
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_420
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 243
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_421
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 244
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_422
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 244
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_423
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 243
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_424
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 242
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_425
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 243
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_426
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 196
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_427
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 201
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_428
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 201
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_429
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 200
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_430
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 196
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_431
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 204
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_432
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 206
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_433
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 204
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_434
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 197
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_435
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 204
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_436
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_437
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 204
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_438
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 188
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_439
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 188
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_440
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 188
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_441
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 188
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_442
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 182
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_443
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 182
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_444
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 188
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_445
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 188
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_446
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 182
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_447
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 188
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_448
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 188
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_449
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 182
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_450
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 182
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_451
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 148
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_452
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 148
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_453
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 148
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_454
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 148
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_455
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 132
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_456
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 140
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_457
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 131
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_458
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 131
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_459
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 131
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_460
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 131
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_461
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 135
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_462
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 134
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_463
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 114
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_464
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 114
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_465
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 114
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_466
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 114
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_467
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 120
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_468
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 97
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_469
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 97
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_470
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 97
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_471
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 97
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_472
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 87
+        width: 40
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_473
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 87
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_474
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 87
+        width: 40
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_475
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 87
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_476
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 78
+        width: 40
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_477
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 78
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_478
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 78
+        width: 40
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_479
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 78
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_480
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 44
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_481
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 44
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_482
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 44
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_483
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 44
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_484
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 10
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_485
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 10
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_486
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 10
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: altern_487
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 10
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
